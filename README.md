@@ -1,6 +1,7 @@
 # Calculatrice_MBDS_EMSI
 
 *****  Fonctionnalités developpés *****
+ 
  => Ajouter la page de LaunchScreen (Count On Me)
  => L'ajout de l'opération de multiplication 
  => L'ajout de l'opération de division 
@@ -11,6 +12,7 @@
 
 
 ***** Equipe *****
+ 
  - Mafkoud Ayoub
  - Hsseine Lokmane
  - Gym Oumaima
